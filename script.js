@@ -5,7 +5,7 @@
    Copia una línea, pega abajo y cambia los nombres.
    ============================================ */
 const peliculas = [
-  { titulo: "Hotel Rwan", portada: "HOTEL RWANDA.jpg", video: "hotel.rwanda.bdrip.latino.mp4" },
+  { titulo: "Hotel Rwan", portada: "HOTEL RWANDA.jpg", video: "https://pub-67e92576af6748749d549fd7c47bb66b.r2.dev/hotel.rwanda.bdrip.latino.mp4" },
   { titulo: "Ejemplo 2", portada: "portadas/ejemplo2.jpg", video: "peliculas/ejemplo2.mp4" },
   // { titulo: "Mi película", portada: "portadas/mi-peli.jpg", video: "peliculas/mi-peli.mp4" },
 ];
