@@ -6,7 +6,7 @@
    ============================================ */
 const peliculas = [
   { titulo: "Hotel Rwan", portada: "HOTEL RWANDA.jpg", video: "https://pub-67e92576af6748749d549fd7c47bb66b.r2.dev/hotel.rwanda.bdrip.latino.mp4" },
-  { titulo: "Ejemplo 2", portada: "portadas/ejemplo2.jpg", video: "peliculas/ejemplo2.mp4" },
+  { titulo: "10 cosas que odio de ti", portada: "10 Things I Hate About You Movie Poster_.jpg", video: "https://pub-67e92576af6748749d549fd7c47bb66b.r2.dev/peli2.mp4" },
   // { titulo: "Mi película", portada: "portadas/mi-peli.jpg", video: "peliculas/mi-peli.mp4" },
 ];
 
